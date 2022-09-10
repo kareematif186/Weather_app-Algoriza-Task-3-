@@ -3,10 +3,10 @@
 ## Application features :
 -----------------------------------
 1-Ability to know the weather forecast for your current location.
-2-Ability to search for any city and specify its weather forecast , too.
-3- Drawer for navigating between cities selected from the search.
-4- Chart to know all incoming days' forecast details.
-5- Animations and other details for giving users a beautiful experience.
+#2-Ability to search for any city and specify its weather forecast , too.
+#3- Drawer for navigating between cities selected from the search.
+#4- Chart to know all incoming days' forecast details.
+#5- Animations and other details for giving users a beautiful experience.
 
 The app is built with : BloC state management, clean architecture, Dio, geolocator and flutter offline
 

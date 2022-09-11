@@ -1,5 +1,8 @@
 # Algoriza-Task-3
 
+
+There is rar file (Weather-app.rar) include all code files including assets and so on
+
 ## Application features :
 -----------------------------------
 1-Ability to know the weather forecast for your current location. <br/>
@@ -13,7 +16,7 @@ The app is built with : BloC state management, clean architecture, Dio, geolocat
 
 
 
-There is rar file (Weather-app.rar) include all code files including assets and so on
+
 
 
 
